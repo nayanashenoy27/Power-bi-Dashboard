@@ -41,10 +41,26 @@ https://github.com/nayanashenoy27/Power-bi-Dashboard/blob/main/Hr%20analytics%20
 -  Used Pie charts (education, gender distribution)
 -  Made KPI cards (summary metrics)
 -  Added filters for better exploration
--  used slicer based on gender
-
-
-
-
-
+-  Used slicer based on gender
+## Project Insights
+- The organization has an attrition rate of **19.35%**, indicating a moderate to high employee turnover.
+- This suggests a need for immediate HR intervention to improve retention.
+- Most employees leaving fall under the “Upto 5K” salary slab.
+- Attrition significantly decreases as salary increases.
+- Low compensation is a key factor influencing employee exits
+- Highest attrition is observed in the 26–35 age group.
+- Employees in their first few years (0–5 years) are more likely to leave.
+- Retention strategies should target early-stage employees
+- The Human Resources role shows the highest attrition
+- Manager-level positions show little to no attrition
+- Certain roles may lack growth opportunities or job satisfaction
+- Employees from Life Sciences and Medical backgrounds show higher attrition rates.
+- Mismatch between job roles and educational background may exist
+- Attrition is higher among **male employees** compared to female employees.
+  ## Final Conclusion
+The HR Analytics dashboard reveals that employee attrition is primarily driven by low salary, early career stage, and specific job roles. A significant portion of employees leave within the first few years, especially those in lower salary brackets and mid-young age groups. Additionally, certain roles such as HR experience higher turnover, indicating potential issues in job satisfaction or career growth.To improve retention, the organization should focus on:
+- Enhancing compensation for lower salary groups
+- Strengthening engagement during early employment stages
+- Providing better career development opportunities
+Overall, this analysis demonstrates how data-driven insights can help organizations reduce attrition, improve employee satisfaction, and optimize workforce planning.
 
