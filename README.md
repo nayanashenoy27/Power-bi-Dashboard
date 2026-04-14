@@ -16,3 +16,35 @@ To analyze employee data and identify key factors influencing attrition by exami
 - Which age group experiences the most attrition?
 ## Dashboard Overview
 https://github.com/nayanashenoy27/Power-bi-Dashboard/blob/main/Hr%20analytics%20dashboard_page-0001.jpg
+## Project Process
+- Imported the HR dataset (CSV format) into Power BI
+- Reviewed dataset structure, columns, and data types
+- Data Understanding
+- Handled missing and inconsistent values
+- Converted data types where necessary
+  # Created meaningful categories:
+- Age groups (18–25, 26–35, etc.)
+- Salary slabs (Upto 5K, 5K–10K, etc.)
+- Ensured data was ready for analysis
+- Structured the dataset for efficient analysis
+
+  # Defined key metrics:
+  - Total Employees
+  - Attrition Count
+  - Attrition Rate (%)
+  - Average Age
+  - Average Salary
+  - Average Tenure
+# Data Visualization
+- Built an interactive Power BI dashboard
+-  Used Bar charts (attrition by salary, job role, age
+-  Used Pie charts (education, gender distribution)
+-  Made KPI cards (summary metrics)
+-  Added filters for better exploration
+-  used slicer based on gender
+
+
+
+
+
+
